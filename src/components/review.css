@@ -1,0 +1,100 @@
+.header h1 {
+  color: #0b3558;
+  text-align: start;
+  font-family: Inter;
+  font-size: 46.875px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.header span {
+  color: #ff914d;
+}
+
+.header p {
+  color: #06253d;
+  text-align: start;
+  font-family: Inter;
+  font-size: 18.75px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.header button {
+  border-radius: 999px;
+  border: 1px solid #fff;
+  background: #fff;
+  box-shadow: 0px 1px 50px 0px rgba(0, 0, 0, 0.15);
+
+  width: 305.31px;
+  height: 85.77px;
+
+  color: #ff914d;
+  text-align: center;
+  font-family: Inter;
+  font-size: 13.945px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 21px;
+  margin-top: 50px;
+}
+
+.main {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.review1 {
+  display: flex;
+  width: 407px;
+  height: 222.66px;
+  padding: 25px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  border-radius: 25px;
+  background: #fbfbfb;
+  box-shadow: 1px 1px 15px 0px rgba(0, 0, 0, 0.15);
+  margin-bottom: 20px;
+}
+
+.top {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.top h3 {
+  color: #000;
+  font-family: Inter;
+  font-size: 12.667px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.402px;
+}
+
+.review1 p {
+  color: #000;
+  font-family: Inter;
+  font-size: 13.547px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 20.03px;
+  letter-spacing: 0.375px;
+}
+
+.review1 h3,
+h4 {
+  color: #000;
+  font-family: Inter;
+  font-size: 12.667px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.402px;
+}
